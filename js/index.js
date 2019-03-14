@@ -34782,7 +34782,7 @@ var ZNavbar = function (_React$Component) {
         _react2.default.createElement(
           _reactstrap.NavbarBrand,
           { href: '/' },
-          _react2.default.createElement('img', { src: '/favicon.ico', height: 42 }),
+          _react2.default.createElement('img', { src: 'https://gochain.io/favicon.ico', height: 42 }),
           '\xA0myzenwallet.io'
         ),
         _react2.default.createElement(
